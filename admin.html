@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>요즘것들연구소 관리자</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap');
+
+  :root {
+    --bg: #0b0e27;
+    --bg-soft: #10142f;
+    --card: rgba(255,255,255,0.04);
+    --card-border: rgba(255,255,255,0.1);
+    --text: #e9e9f5;
+    --text-dim: #9a9ab4;
+    --accent-1: #8b5cf6;
+    --accent-2: #ff4fa3;
+    --danger: #ff5c5c;
+    --ok: #33d17a;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+  }
+
+  a { color: inherit; }
+
+  input, select, textarea, button {
+    font-family: inherit;
+    font-size: 14px;
+    color: var(--text);
+    background: var(--bg-soft);
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    padding: 8px 10px;
+  }
+  input[type="checkbox"] { width: 16px; height: 16px; padding: 0; }
+  label { font-size: 12.5px; color: var(--text-dim); display: block; margin-bottom: 4px; }
+
+  button { cursor: pointer; }
+  .btn-primary {
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    border: none; color: #fff; font-weight: 700;
+  }
+  .btn-ghost { background: transparent; }
+  .btn-danger { border-color: var(--danger); color: var(--danger); background: transparent; }
+
+  .topbar {
+    display: flex; align-items: center; gap: 12px;
+    padding: 18px 20px;
+    border-bottom: 1px solid var(--card-border);
+  }
+  .topbar .brand { font-weight: 700; font-size: 16px; }
+  .topbar .sub { color: var(--text-dim); font-size: 13px; }
+  .topbar .spacer { flex: 1; }
+
+  main { max-width: 980px; margin: 0 auto; padding: 24px 20px 80px; }
+
+  #gate {
+    max-width: 480px; margin: 80px auto; padding: 28px;
+    background: var(--card); border: 1px solid var(--card-border); border-radius: 16px;
+  }
+  #gate h1 { font-size: 18px; margin: 0 0 8px; }
+  #gate p { color: var(--text-dim); font-size: 13.5px; line-height: 1.6; }
+  #gate input { width: 100%; margin: 12px 0; }
+  #gate .steps { font-size: 12.5px; color: var(--text-dim); line-height: 1.8; margin-top: 16px; }
+  #gate .steps code { background: var(--bg-soft); padding: 1px 5px; border-radius: 4px; }
+
+  .tabs { display: flex; gap: 8px; margin-bottom: 20px; border-bottom: 1px solid var(--card-border); }
+  .tab-btn {
+    background: transparent; border: none; border-bottom: 2px solid transparent;
+    border-radius: 0; padding: 10px 4px; margin-right: 16px; color: var(--text-dim); font-weight: 700;
+  }
+  .tab-btn.active { color: var(--text); border-bottom-color: var(--accent-2); }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+
+  .panel-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px; }
+  .panel-head h2 { font-size: 16px; margin: 0; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--card-border); vertical-align: top; }
+  th { color: var(--text-dim); font-weight: 700; font-size: 12px; text-transform: uppercase; }
+  td.actions { white-space: nowrap; }
+  td.actions button { margin-right: 6px; padding: 5px 10px; font-size: 12.5px; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 11px; font-weight: 700; }
+  .badge.on { background: rgba(51,209,122,0.15); color: var(--ok); }
+  .badge.off { background: rgba(255,92,92,0.15); color: var(--danger); }
+
+  .modal-backdrop {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.6);
+    display: flex; align-items: flex-start; justify-content: center;
+    padding: 40px 20px; overflow-y: auto; z-index: 50;
+  }
+  .modal {
+    width: 100%; max-width: 520px;
+    background: var(--bg-soft); border: 1px solid var(--card-border); border-radius: 16px;
+    padding: 24px;
+  }
+  .modal h3 { margin: 0 0 16px; font-size: 16px; }
+  .field { margin-bottom: 14px; }
+  .field input, .field select, .field textarea { width: 100%; }
+  .field textarea { resize: vertical; min-height: 60px; }
+  .field-row { display: flex; gap: 12px; }
+  .field-row .field { flex: 1; }
+  .checkbox-field { display: flex; align-items: center; gap: 8px; }
+  .checkbox-field label { margin: 0; }
+  .modal-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 20px; }
+
+  #toast {
+    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    background: var(--bg-soft); border: 1px solid var(--card-border); border-radius: 10px;
+    padding: 12px 18px; font-size: 13.5px; z-index: 100; display: none;
+    max-width: 90vw;
+  }
+  #toast.error { border-color: var(--danger); color: var(--danger); }
+  #toast.ok { border-color: var(--ok); color: var(--ok); }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <h1>관리자 인증</h1>
+  <p>이 페이지는 GitHub 저장소(<code>yozeumlab-hub</code>)에 직접 접속해서 상품/배너 데이터를 수정합니다. 개인 액세스 토큰(PAT)이 필요하며, 이 브라우저에만 저장되고 외부로 전송되지 않습니다.</p>
+  <input id="tokenInput" type="password" placeholder="GitHub Personal Access Token">
+  <button class="btn-primary" id="tokenSubmit" style="width:100%">시작하기</button>
+  <div class="steps">
+    토큰이 없다면:<br>
+    1. github.com 로그인 → Settings → Developer settings → Fine-grained tokens<br>
+    2. Repository access를 <code>yozeumlab-hub</code>만 선택<br>
+    3. Permissions에서 <code>Contents: Read and write</code> 부여<br>
+    4. 생성된 토큰을 위 입력창에 붙여넣기
+  </div>
+</div>
+
+<div id="app" hidden>
+  <div class="topbar">
+    <span class="brand">요즘것들연구소 관리자</span>
+    <span class="sub">yozeumlab-hub</span>
+    <div class="spacer"></div>
+    <button class="btn-ghost" id="logoutBtn">로그아웃</button>
+  </div>
+
+  <main>
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="platforms">플랫폼</button>
+      <button class="tab-btn" data-tab="categories">카테고리</button>
+      <button class="tab-btn" data-tab="products">상품</button>
+      <button class="tab-btn" data-tab="banners">배너</button>
+    </div>
+
+    <section class="panel active" id="panel-platforms">
+      <div class="panel-head"><h2>플랫폼 관리</h2><button class="btn-primary" data-add="platforms">+ 플랫폼 추가</button></div>
+      <table><thead><tr><th>이름</th><th>API</th><th>순서</th><th>상태</th><th></th></tr></thead><tbody id="table-platforms"></tbody></table>
+    </section>
+
+    <section class="panel" id="panel-categories">
+      <div class="panel-head"><h2>카테고리 관리</h2><button class="btn-primary" data-add="categories">+ 카테고리 추가</button></div>
+      <table><thead><tr><th>이름</th><th>소속 플랫폼</th><th>순서</th><th>상태</th><th></th></tr></thead><tbody id="table-categories"></tbody></table>
+    </section>
+
+    <section class="panel" id="panel-products">
+      <div class="panel-head"><h2>상품 관리</h2><button class="btn-primary" data-add="products">+ 상품 추가</button></div>
+      <table><thead><tr><th>상품명</th><th>플랫폼</th><th>카테고리</th><th>등록방식</th><th>노출기간</th><th>상태</th><th></th></tr></thead><tbody id="table-products"></tbody></table>
+    </section>
+
+    <section class="panel" id="panel-banners">
+      <div class="panel-head"><h2>배너 관리</h2><button class="btn-primary" data-add="banners">+ 배너 추가</button></div>
+      <table><thead><tr><th>제목</th><th>플랫폼</th><th>노출기간</th><th>상태</th><th></th></tr></thead><tbody id="table-banners"></tbody></table>
+    </section>
+  </main>
+</div>
+
+<div id="toast"></div>
+
+<script src="admin.js"></script>
+</body>
+</html>
