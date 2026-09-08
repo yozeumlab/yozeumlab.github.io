@@ -30,21 +30,5 @@
     "is_active": true,
     "sort_order": 2,
     "created_at": "2026-09-09"
-  },
-  {
-    "id": "product-1788893006832",
-    "created_at": "2026-09-08",
-    "platform_id": "coupang",
-    "category_id": "electronics",
-    "name": "2",
-    "description": "2",
-    "image_url": "https://link.coupang.com/a/gS029Z2mbY",
-    "affiliate_url": "2",
-    "source_type": "MANUAL",
-    "is_featured": false,
-    "start_date": null,
-    "end_date": null,
-    "sort_order": 1,
-    "is_active": true
   }
 ]
