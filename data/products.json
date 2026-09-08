@@ -5,6 +5,7 @@
     "category_id": "electronics",
     "name": "닌텐도 스위치2 본체",
     "description": "요즘 제일 뜨거운 화제, 닌텐도 다이렉트에서 공개된 그 스위치2.",
+    "tags": ["닌텐도", "스위치", "게임", "콘솔", "신제품"],
     "image_url": "https://ads-partners.coupang.com/image1/pw_B05OtCiuHpKk3p9lzhRvn6rG0VetMzdGfXX0v8uQt2xEiGSgZ30nA1iWYEYb9mNvZ6iuZlcxhMTka8Xg4-pMV9HfZVB5lT6fu0RCAik_6uQa9Ko43KNT85Zc-rfzGInj7NdwVb8kH7Ej1CY6icehkTeSaBmDF7U_Kwb4ZrcQtNxd0PrZ9HwDUA1AMgN1egACu91C3bedNxfDGYhQoqTbhJoYemHCMf-9RWJnVrJXWlirZtSROup57nx3Ho9A0dchn2W5DZWubTwtIvAtalkkc-BUY9UoQngzz2mgVZPrpVu4xhhr9smCvD0rDTx8qGqILM3NhvcGFmsDkk5Ikk9Gqh9ss2hPSd_A-Lv4UasiPiQzpdSZAJpCd34qWlnIYJC77hHQ9Hq37kXfvye6tRc4Ln_9GQR6hQ4cV638wS55AA4lYnzW6Wu97c1t0slsrkKvGdjRjiRAMxbT1ZFw6i5ShnnWam0wJZy7QAHhtjT6vtv6O-5cnGJsjmSjfUsDWtXa93MKMA17F6SV4PzqjhM4oljvBJ0eht2to2f_z5azdhNi9blldh1M0ogetHrs6timG",
     "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=8915336552&itemId=25966035145&vendorItemId=92878395305&traceid=V0-153-2e512fccc1252bff&requestid=20260909001255586260690366&token=31850C%7CMIXED&pt=0&slot=5",
     "source_type": "API",
@@ -21,6 +22,7 @@
     "category_id": "electronics",
     "name": "닌텐도 스위치2 프로 컨트롤러",
     "description": "스위치2랑 같이 쓰면 좋은 프로 컨트롤러.",
+    "tags": ["닌텐도", "스위치", "게임", "컨트롤러", "액세서리"],
     "image_url": "https://ads-partners.coupang.com/image1/hXx97Fk-je03J_dmhY3H9x8O7SKbhwHfBl-HPEzuwktEA7P-tZw-0Ys2DJSx2TeYjXKp1RBSebd4Eonka-L6Sr-OrOXAnWF34rmotTzzDn0-FuWMgjX1_LpnHVhsBMrDRzjpG54EXNb1oRF-4chr0hZDMCbo4yxE-SpB9kbiNxpifufKXuGlN0AH3flM2Xj6DCNMm7Ian2fvDtxVJ8z5OxK4MHcc3MMxv5fhU6QbOdmkPzGg5ytkl9qciQ6eX0Ic-0q27rreoY5sHfCpULef7s1_2WnWzpwYVI1Z7-xZtP2tNNwuVEgOYvoWJ4caIdMGDmJG58KfgnDwbNAANbkZIfuN7pu0LfB1BHsbytXiP_QU95gBlV3-zecIJT1lhMM8-kM9vE7JMheSnSJ5EjJJ986fHrZvis2awypAujK98myvStv5cukZzZJc2cr3yXGGRKWQEdpTgieJbttzAC23eYqTbV54F64j1zFk_WLdhh2QHE-1Avy0KXsTpgt0ybVu9yPGsCh5jy-CnTM-e5pP1FuBEXzJpvzboQb1i7OpCcjT",
     "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9173893604&itemId=27041785357&vendorItemId=95343868228&traceid=V0-153-147fb7ecb5070ba5&clickBeacon=c4d76d60-ab97-11f1-9852-914eec7e6c27~3&requestid=20260909001255586260690366&token=31850C%7CMIXED&pt=1&slot=3",
     "source_type": "API",
@@ -29,6 +31,23 @@
     "end_date": null,
     "is_active": true,
     "sort_order": 2,
+    "created_at": "2026-09-09"
+  },
+  {
+    "id": "diop-allergy-bedding-001",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "디오프 간절기 항균 알러지케어 먼지없는 차렵이불",
+    "description": "간절기 이불 먼지 알러지 걱정을 덜어주는 항균 소재 차렵이불.",
+    "tags": ["간절기", "이불", "침구", "환절기", "항균", "알러지케어"],
+    "image_url": "https://ads-partners.coupang.com/image1/s2uo_d_kO77GOjK1s2qGmVOgmK1wQQvDLBJRNqEjI7iywsPsGzcc8TADKBvdV5hkYbS5XDFAw6UMoyT-1cwW_Y623fzRqL1xw-OugD_3VJcGRQ-EI5zgC7w8MZNEpjB0ac98DdhQdHchwyhIyb2kOr_mCyY16Y_6O9D2RV3pYCBWVAolFU19mJe7eSCrPBgq084yCmGaOiVXL8Sh-bhDntoh7jvUYWHTRs5yh8e-KrltRT9UI3if_syoISjfj8mL1A9xqShYFXoAkAyu6Ecb-HefmhIo5vS3AFfypuJwJSkOduL3xVHoquPhZfJR5BRggAks4NcaxI0emEZY28Ufi9LY6AjpNJTRdGnAg06NjMSJYFR7CipUwP_aGQ6YNw81pLFZYjVslmtps94GW9EV1z0AjFhg2XzxPgkktWRiBqQ-1t0eLq_qDAYl8oX700_EP4zL32X60UybhwcXP8Lv8rKGIplj0M6Z-upPhrHvbTCotsYdpJ4mrzsA27F18L72t3uECVgJhe0IhA8ACylgemOHfTg84ThzT8bpFTub2eDi4IU_zvYaEoSrpmSd75GBfQ==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=8774215230&itemId=26178733056&vendorItemId=93158358322&traceid=V0-153-79e2cd546c7126df&clickBeacon=961f8910-abb7-11f1-91fc-5bfbbba38a63%7E3&requestid=20260909040041092036159004&token=31850C%7CMIXED&pt=1&slot=3",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": "2026-09-09",
+    "end_date": null,
+    "is_active": true,
+    "sort_order": 3,
     "created_at": "2026-09-09"
   }
 ]
