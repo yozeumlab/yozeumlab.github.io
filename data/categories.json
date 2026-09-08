@@ -1,0 +1,8 @@
+[
+  { "id": "electronics", "name": "전자제품", "platform_id": null, "sort_order": 1, "is_active": true },
+  { "id": "fashion", "name": "패션", "platform_id": null, "sort_order": 2, "is_active": true },
+  { "id": "life", "name": "생활", "platform_id": null, "sort_order": 3, "is_active": true },
+  { "id": "beauty", "name": "뷰티", "platform_id": null, "sort_order": 4, "is_active": true },
+  { "id": "food", "name": "식품", "platform_id": null, "sort_order": 5, "is_active": true },
+  { "id": "etc", "name": "기타", "platform_id": null, "sort_order": 99, "is_active": true }
+]

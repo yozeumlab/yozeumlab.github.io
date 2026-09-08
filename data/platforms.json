@@ -1,0 +1,12 @@
+[
+  {
+    "id": "coupang",
+    "name": "쿠팡파트너스",
+    "logo": "",
+    "description": "쿠팡 상품 제휴 링크",
+    "affiliate_base_url": "https://www.coupang.com",
+    "api_enabled": true,
+    "is_active": true,
+    "created_at": "2026-09-09"
+  }
+]
