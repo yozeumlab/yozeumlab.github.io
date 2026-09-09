@@ -14,5 +14,37 @@
     "end_date": null,
     "sort_order": 1,
     "is_active": true
+  },
+  {
+    "id": "product-1788953213925",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "삼성 갤럭시 S26 S25 S24 FE/울트라/플러스에 적합한 다이아몬드 패턴 은도금 유리 휴대폰 케이스",
+    "description": "19,800원, 로켓배송. 갤럭시 S26 FE 출시 소식에 같이 다룬 케이스 - 새 폰 사면 바로 필요한 액세서리.",
+    "image_url": "https://ads-partners.coupang.com/image1/AxEY9yzpFYUASAVpA482YcP6Xz8HR1x_linyA7DUjjZP0Qh7XPZ1FFRMYqTYt2fWEYiGihelU2f_apgTDhWI8zo3I8NB24BCbCPlMHRpctyNbnpOcpZjf9YkZrqmyUnGAaRCq0C8_6fiKVpm8z2_fzqm8zhcvsvTJhk6eMJyOFrS0Pv2VSIddGeMMqhCvtJn7Vm-cqJuOzineHnNHs1YPQHJYRRHNFta3M3Wg0loW32MeS3qe9CQCLXIly_W1HelOI6JpRY1x_6wYxV-O5yDc3W-sfSi4ybpxR-YRktppKZ4xOR9VwBSbQ2xivJfkiSnTAINAAMaaSzQ91jIzs7uQi1pYaX1A6GB4aGGh7daiIEaewyLtrHEenJCXaDPTdBkWBfsU0IP248auzCU1N9qWGCGtYXU3-tRElXHWeuQ9Z-bWoNJPFcMPBkIX7g_uabfDgwHvbkbgk_BjGk-Xu7n77Uo-axbSjR8sgK9diPUX9lnk3Igl4LS3k8b1nOsvFEc4M6mddh11iBqNiKt-3-k41WixQb3NUYsGQVMkXvyPIzO92dALH2y1_nZIUQyF1C7lu_x0dhRcPI=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9625082963&itemId=28744489270&vendorItemId=95683668132&traceid=V0-153-8650f6c22303bc23&clickBeacon=4ee23d00-ac65-11f1-bce2-d5a208c58c7a%7E3&requestid=20260910004413925164901495&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "product-1788953241830",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "aa마켓 자동차 접이식 수납박스 트렁크정리함, 블랙",
+    "description": "39,700원, 로켓배송. 디 올 뉴 투싼 디자인 공개 소식에 같이 다룬 트렁크 정리함 - 새 차 준비할 때 같이 챙기는 차량용품.",
+    "image_url": "https://ads-partners.coupang.com/image1/dPS_U2AkrlKTtHrMdLug0EF6UvGarGkbjcP_-g-rMydQQ7Mof1bqQtJ0YjFw3yRea4ZyfZ-WTIIY3s9-H0jK1e-d8R4Yu0h2k0HFW8LweNaw6Q-CRPnaLApKK9hGgztJEiK3A-3Rxyf4_l_e2biQg8YC-XtBgzEioof7PCA4ZIEm6DV92necG6nvCOJPVNjFpuaA4WkerA6lNCiq1gZ3Up191StHL-TaJEAt1b2GI9DCFgtvljKnzrJjfMYcRfQvroEk9MsIfeaMYj8jmMBV3lQavDy-ztkRdDUK2cfae9YqFIj7kaFN3HDtkZYc_1rjuXGBdGiZ1CKizGpckAfNQ7izis7MX_MRYv4nkzWHvkdD5OBLjSqVyYXOghFPCTy34bvU8WUPAScIH_jjptVJWjlzq5hvVYQBEA3XVBiKP1bSBD51PTNZu-ANGhBUKxBBf0nTOTRUgS8FVIRKIWnMvtD7JYYOOhaiTMBnoBJaN0HasWGpU-ywuf1sX-MAqP45AEsEsBYxs0jdSzKTxBBGcaq0IPfujUvF4F6cQh6T_1zPszP8nICuvCOSMz2nUETmyxdzFw9umqA=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=7997677800&itemId=22187791514&vendorItemId=89302948721&traceid=V0-153-8de97810e9cd7833&clickBeacon=57051020-ac65-11f1-a93c-5d2352cfec78%7E3&requestid=20260910004427620297780363&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 3,
+    "is_active": true
   }
 ]
