@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "product-1788950752008",
+    "created_at": "2026-09-09",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "SK하이닉스 골드(Gold) P31 NVMe SSD",
+    "description": "500GB/1TB/2TB, 순차읽기 3,500MB/s. SK하이닉스 나스닥 상장 소식에 같이 다룬 소비자용 SSD.",
+    "image_url": "https://ads-partners.coupang.com/image1/Vs3VkZfk3uNsOKnaVpusmleKfFcyUrpVmW-2qUp6ipvS-ALmaqK6pHFulwadrVA15i8qUqEfwUDKQBWND5st1hg79wWWnkN2J-Tb4lwcXqOwGqHONpjNjgMmzekMJ0Ge1AvyCvum4Pk0bqqr1-rXq6WyXY-RmLYoq3A0vEkSPgP_g0efmwWwEJiRTEm8VNuVLTeB86-2hCEk0mnMrEHO9y_ocrGiev3sWJOK9U_tTzDagQ6Qt23NZXx21lH0ARsZ61F7aEj-6kuqIKY5omnF59_A9RLND9jI2MGyYdmyBXbNxZyttK2bGc3xJEH6QjJWPkCUb73pLm_3QQw12_FbG9LvoA04hzL8HDgM5fqD-1RZJNQZg3hLzV3G5nA3DfmZgy6wwEPbnkwPz5OLkDR9V9Iy34Jjz_TJSb2NFRKbB3EAFqvSCmTfD1Pdn5hQBzAWMnV4Q8IMcwGhArpwyY-Ec5Oow7d9V4B5KO3wJO30dyzQ1wes-ANJr01K5uLMG-DDbGRtWoaxGwpgMVdY_u6yjAHtYH82SWhqXgESyoGTmvC1PT3Ozm53ixbJMPR9qSE-OA3FHokCN32K45TR3x2_OwQAAw==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=6091702345&itemId=6385458192&vendorItemId=73615526961&traceid=V0-153-8dcc084798162b69&requestid=20260909190205289279626522&token=31850C%7CMIXED&pt=0&slot=6",
+    "source_type": "MANUAL",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 1,
+    "is_active": true
+  }
+]
