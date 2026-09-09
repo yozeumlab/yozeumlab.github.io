@@ -46,5 +46,37 @@
     "end_date": null,
     "sort_order": 3,
     "is_active": true
+  },
+  {
+    "id": "product-1788970491000",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "beauty",
+    "name": "비타민마을 메가씨 비타민C 분말",
+    "description": "15,900원. 아일로 화이타민정 이너뷰티 출시 소식에 같이 다룬 비타민C.",
+    "image_url": "https://ads-partners.coupang.com/image1/2lvjaqBxTga1LJMo2q2HMsDwXD1dZVy4ldhXZ-IaTM3cQSm-4LXvsLxdW7a4vz6bQZUHnbKZd8UG1PY_6hDFMhJRAfa1Y0zTcqjOgiHrvCjHwMquXKmVPlBJPzoeaADz4-YI1giFe9oIBKwwAm13bhNkGfsgLisv_X7lCXm8sfQ8NaJPYkIAlPObfkU9tNLE4OdSyOgTuWWRlIBmtKNWYWGpZ7b3cPijazvd2foaZEezl6zooceAQ2tm60LKs3RugCJjGL8ShLcCIxOgBqEC65WN8xIMqNFw2p8s1wdZShO8bYAHDoIYw08ncW3-6DQESx4gmuhKZ_Xj1qIcj4YJ7mwhvXoioI6ow95GAVLVSk410Tc8G1zm4iY3n9pYGsO8MDRgXgnPaUEjyyJ0qt6udrnUbU9OIlahHDoDR3yeatzJUabV_fuuCnCxhHlrRUVUyF_eKR0b4fKLpat7gKht4AGyX868NJ_BZTTlhMSzaBFMUWHEyUE2b04O9JG5EyjLkgugjU7eKgwVhqlr7k46v4B_dU7OU9DwkhAGoPixvBu8tezqL-zpbQ==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=7769940102&itemId=20973688802&vendorItemId=94734318770&traceid=V0-153-7676ec6c1bf9717e&clickBeacon=8a4ee8c0-ac7e-11f1-a452-665cfc63cb88%7E3&requestid=20260910034451044326675049&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 4,
+    "is_active": true
+  },
+  {
+    "id": "product-1788970502000",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "뉴클 맥세이프 무선충전기",
+    "description": "26,900원, 로켓배송. 아이폰 폴더블(iPhone Duo) 공식 발표 소식에 같이 다룬 맥세이프 충전기.",
+    "image_url": "https://ads-partners.coupang.com/image1/msvDyYVnL6k2naYtmgFQhZ0IKYC15lPgiN3765ZPC0L7r6bjow4ysDnnfF3tYsfj_s8xh_PpSTBSjuqMkaecHxTFAKsnIbW_4cmjBhMl1ZsFvyIJQyTUpGlaouZ7H_Pt9gmdqF_EjF0mCClK6oOH6w9gewIQcvqrrrohdB-6yAj3_UJginYv77JeFUxRzNTV1Vn1jlq8wDdyt4xWCN1hWdnTbfpau6DfSu_SVfwxtJmweCC4koAx9KpFe7rnp9iok5glzVV5XcEb8hmyU7h12Lfk0pxwA77EkPnDTulnmITlF1Srw2FUuti_X4akkOpoeC2cM80oNVgFWfGToOjqNZCY-tBZ91c59bBGCF7u-5vRxhhFbGaJjchh0SG4PbiMk0YXt9GQrYGlTwf9s0w_oYc_MEanl6J1giH_gV8AJvcKhVt-Se4GWWqI6MdZund7oOzLkoAOLbVsuNNJijqgnw00ufeUv0fyD-GReCTuqiB4v51Zm9udAUOWnPaqRM1YXKV8aRd5qx_y4D2oNSYqRV8BJqJQL94QlPXj_SWIQAoxISC8Hb2kzA==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9198836001&itemId=27032960584&vendorItemId=94001494442&traceid=V0-153-9aca4156bc4b7bc0&clickBeacon=90826f00-ac7e-11f1-89e9-4c332f51a149%7E3&requestid=20260910034501485169784670&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 5,
+    "is_active": true
   }
 ]
