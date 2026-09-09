@@ -1,28 +1,5 @@
 [
   {
-    "id": "switch2-procon-001",
-    "platform_id": "coupang",
-    "category_id": "electronics",
-    "name": "닌텐도 스위치2 프로 컨트롤러",
-    "description": "스위치2랑 같이 쓰면 좋은 프로 컨트롤러.",
-    "tags": [
-      "닌텐도",
-      "스위치",
-      "게임",
-      "컨트롤러",
-      "액세서리"
-    ],
-    "image_url": "https://ads-partners.coupang.com/image1/hXx97Fk-je03J_dmhY3H9x8O7SKbhwHfBl-HPEzuwktEA7P-tZw-0Ys2DJSx2TeYjXKp1RBSebd4Eonka-L6Sr-OrOXAnWF34rmotTzzDn0-FuWMgjX1_LpnHVhsBMrDRzjpG54EXNb1oRF-4chr0hZDMCbo4yxE-SpB9kbiNxpifufKXuGlN0AH3flM2Xj6DCNMm7Ian2fvDtxVJ8z5OxK4MHcc3MMxv5fhU6QbOdmkPzGg5ytkl9qciQ6eX0Ic-0q27rreoY5sHfCpULef7s1_2WnWzpwYVI1Z7-xZtP2tNNwuVEgOYvoWJ4caIdMGDmJG58KfgnDwbNAANbkZIfuN7pu0LfB1BHsbytXiP_QU95gBlV3-zecIJT1lhMM8-kM9vE7JMheSnSJ5EjJJ986fHrZvis2awypAujK98myvStv5cukZzZJc2cr3yXGGRKWQEdpTgieJbttzAC23eYqTbV54F64j1zFk_WLdhh2QHE-1Avy0KXsTpgt0ybVu9yPGsCh5jy-CnTM-e5pP1FuBEXzJpvzboQb1i7OpCcjT",
-    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9173893604&itemId=27041785357&vendorItemId=95343868228&traceid=V0-153-147fb7ecb5070ba5&clickBeacon=c4d76d60-ab97-11f1-9852-914eec7e6c27~3&requestid=20260909001255586260690366&token=31850C%7CMIXED&pt=1&slot=3",
-    "source_type": "API",
-    "is_featured": false,
-    "start_date": "2026-09-09",
-    "end_date": null,
-    "is_active": true,
-    "sort_order": 2,
-    "created_at": "2026-09-09"
-  },
-  {
     "id": "diop-allergy-bedding-001",
     "platform_id": "coupang",
     "category_id": "life",
