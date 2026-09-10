@@ -270,5 +270,21 @@
     "end_date": null,
     "sort_order": 17,
     "is_active": true
+  },
+  {
+    "id": "product-1789069580411",
+    "created_at": "2026-09-11",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "뉴핸들 노트북파우치 가방 맥북 LG 그램 삼성 13인치 14인치 15인치 16인치 파우치, 블랙",
+    "description": "오늘 쿠팡가 21,900원",
+    "image_url": "https://ads-partners.coupang.com/image1/1jr_S9MC5BO-gPcN1kilro4dH7fSSpjke78qaND4xjt0qpmzuNghw9Vtc88KA2nWO86yzmI52Lyb5CeyKJTgPzlUKvoiXMmx7bhPUArRvNtyLd_Ya63-OFrTNTNLRzcrZAvbxD-rRmLThyq2peTnthVgBXD-_AHyaUl87GYz7fLE5GBwqslvDO07SwspzaY1YnllqEc8Ta8t409nOC-zYrPR2NpZDvYtPVnii1ebjNt4eJymhR0tTepE_PSBf6NygPEK3xi-u8T_jb2H1Z0HKsuLCw82mHI5jcD6y1tdhfqKoz4dHZcmZI_qbUDGXfNV_dhczznt321GS-A0hjoDyDZmTbeBl_hPWdfbmrK7r2O3z2aAypWQ4iTVMgvf4t_bzw1MGfqAGQ6ENez7XPALnIe1Pfd0nDtiT5kFqWAEEPAhjF1Ga3M_6OILgHCY2-q7rWtnr7kMEZ13Nm8X5yl7P2hO9OyTqdygUZLjmfQioZ6Ki1EIHOsABbHck44H2xdjiZvk2wcyOh0wsLU-3pjDF0GJZUU4Hvt-IdjpdHwjxumSsFEhPyj51WFZ0MRREXhGI0F1ssLDnIc=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9091063438&itemId=25539051392&vendorItemId=93244195601&traceid=V0-153-b4b0d369d9b923d9&clickBeacon=276363d0-ad50-11f1-8a0b-a6dbe679c160%7E3&requestid=20260911044519423324762990&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 18,
+    "is_active": true
   }
 ]
