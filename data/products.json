@@ -302,5 +302,21 @@
     "end_date": null,
     "sort_order": 19,
     "is_active": true
+  },
+  {
+    "id": "product-1789082179848",
+    "created_at": "2026-09-11",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "루베이 무샤 스타일 현금 바인더 저축 다이어리 대용량 수납 방수 측면 오픈 가계부/재테크/저금통, 녹색, 1개",
+    "description": "오늘 쿠팡가 9,900원",
+    "image_url": "https://ads-partners.coupang.com/image1/HIoyJ9agy4oCEqCGHI_DsUyriiI-ZgFpMVlGnZpEw0iR-na7i4HfaCUmjuI17atgng-bTC72mah0q_2KWQU5ozzGFJK76ya1goFCWnKmGiyVLHOTaeFoCbphlt0FrCyXz-BJ7HGOQ2RkGkCs_qCQ8SvppJff01qywvYX0Hq8S0dZOy-SKZ4coJfFetPHe1gvFbgXALsqweKwjCluf6ze16iReOQehz2bXxTqH674l2hej-5fjEsGtqmzSpC-OUJH-Enb-rD2VNEnrnKscyKD0Rj_EZMY8sjk1mFtIL98lWRfxBF3tGC1HAeFt8QNB-dcY0jteUZfZ6NS7mZymHN7Q_4DKWxApWKInj3m6IcxH9q-Qp_lGflTJXBqT3hgd5BE53exjs5ovnsRc556i9abj3la8EPEnHTGvtjxjtRUsGfGOHop0CYftoW8VIUrl9TByRKCELVVPOTNlBrCdvRHUGa0hsW2AsAXv-nDRhDjiOpmDIuNE26UoDYNZZKK7JfxmmIzHBL1NfobxPOWj6x4Qj3yffgANwL-WPCBP1LbZZO-4UUhyvwNbJvOYn0MCLil6g==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9470447843&itemId=28187730750&vendorItemId=94881783298&traceid=V0-153-24fa0de2c5cf327c&clickBeacon=7eb1d460-ad6d-11f1-ad83-de1625e9ece9%7E3&requestid=20260911081521310183803394&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 20,
+    "is_active": true
   }
 ]
