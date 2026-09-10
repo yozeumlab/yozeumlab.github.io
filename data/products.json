@@ -142,5 +142,37 @@
     "end_date": null,
     "sort_order": 9,
     "is_active": true
+  },
+  {
+    "id": "product-1789029092084",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "food",
+    "name": "오뚜기 크림진짬뽕 용기 105g",
+    "description": "5,710원, 로켓배송. 오늘 리뉴얼 출시된 그 크림진짬뽕, 더 매콤하고 꾸덕해졌어요.",
+    "image_url": "https://ads-partners.coupang.com/image1/oExr1oDUsxpZ2nujoCa9J-dAHGz53Ti3foqyfHBpICryZ7YSMO1FEiF1VE-yudrbPYylR7GeDxxsE-akN59D0YEI2OqCTYHDHw7gLsw1O_dAKZ0tsmSxEfAH0Owd41DRbiQ4Fj2bwZv_0goVspmifpBB0FYHDMoUk-OT8-EFat15pLK9Zlv-zgzXvaYAm0a5mxh8DZxvLwPGBg1u850CGyX58lEaCJyOyswMXe8XdHlY6cLuKigTDNSJ3HRfFEX6_rp-1I0UXaVSwc30cW0i2clkUXp0YD--ZSnWmgZcCey-DfiS1X_gTk6LEv4c5dpXNZG7g1HWpPKS-UHQHNqzCR3CLQ1yLvKc044itzXiydFRKOsE_fwyxwUuWKqJdQm7cDpI__NJR3kFWN4r7ChC-T6jv4cGOCjmCk-s2gv981X1DU4fyV1SG7HlyfPhMiERqMiX6HY-FlXI6Jx1hBbL-DReil53QtiWht2H3BeyORNzq696Zd75O1C1rgbDLu7Y1RsRSgdwxDcaoRHYhbfl32GOHICA7UTfXXXX7buyRSQaMQHDzno_llurLoIsxhU=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=5788435582&itemId=29039576580&vendorItemId=95966788378&traceid=V0-153-5aef6dd3c91fa87c&requestid=20260910173059996004566627&token=31850C%7CMIXED&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 10,
+    "is_active": true
+  },
+  {
+    "id": "product-1789029092085",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "food",
+    "name": "맥시칸 하림 양념치킨 소스 오리지널맛",
+    "description": "4,300원, 로켓배송. 오늘 나온 하림 저당 소스 4종 중 오리지널 맛.",
+    "image_url": "https://ads-partners.coupang.com/image1/JnVexfDYQYipHZHPJrpIofwlpwL_Z91we0io4VTOME_xIpFOoJcEZdwATMzrfE6UiA6vos9_Kc1rLelEseSafDl5W3nx1rdxtBPQlMyyrtztJEznQgPA9yXCV9XU93X-ir9VM36osOYKNG-apSDNSL0sdYQcEMp_8mVP78vRba6JdBJf44xKuBEPkgpVSfO_F_g9c0AdVnzIelg7DK6irUrQM3FUBCJ-0lQ2UcNaYnufjO2qBbuA0YW4Kcro-OU7zSud0yQ6wdpbPqwZUSpIFIYDD95LoEzelzDOVIrLRy-0iLNy9Q8xjynomRsx65oOtVXrLciptquoSHMf_LG2w-PQKjAx1fRfiK30tCAnc7PBaTVJKVJbBQooy-O7YW4VKYqG-T17Nbbi8h6LigkMptHOcgIpp0IcnJU1YuKS9WGZP7QIXqt4ZGrbCKinU0Av9YB7vzZVnETS3e5HqSSQSmWm0bnA9y2nVe7vwrJnWOU7-4NSYcq4oNrEOzAJlM9GgzgQAVLm6d7h5IvFww21n25HIddg8dYLLMTHFPAvEvKmaI-nAatsXFugJc-Oul9svv9t",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9031809809&itemId=25949525285&vendorItemId=92430667166&traceid=V0-153-6e777725df53c876&requestid=20260910173106503295911370&token=31850C%7CMIXED&pt=0&slot=4",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 11,
+    "is_active": true
   }
 ]
