@@ -110,5 +110,21 @@
     "end_date": null,
     "sort_order": 7,
     "is_active": true
+  },
+  {
+    "id": "product-1789004366729",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "QCY 오픈형 블루투스 이어폰",
+    "description": "48,900원, 로켓배송. 아이유 신곡 '이 별로부터' 발매 소식에 같이 다룬 이어폰.",
+    "image_url": "https://ads-partners.coupang.com/image1/R5dxTAYzwnBk3g7mR91Jee84ckgIp_jZntzAaZ15eoWV-Cs4be801dh76TLk5QtnVIUBqziyky8GY06G_w04ETC95SRZIuzU5LBY5tQhSo1uV433JUkeBTBl_lbC9V5QhOjx9KWb9mrlQFpOxZGPc5d9Z70EW4-WXGDRjWsOgKwAGgDT7EdApZuKI6B502ZqyTNGN13125k-KYxmJ36JK4h65hJ_wQ_kTzdySbJmyDoyVQQwYQ_16yDAyEZcAVoUE6P5O4-Q_8YajRz1wVgJdYQdgHODXcmY86LPSWVP2dxcKeff9OZTegKZ1TinKkskMAFmVh9BTq-ZD7YX5k9HWGVAS2OTTXoYbX02RMYhKPEMeG6z2ThY75Anb1P2ksFVrz2Zn2J71imJ2GMEXd180-8X_azKzGDRGOFvXWI54kxZKaaHj8IofiApzYTie4DboCABXddRupFQytG6RQIEGMTmaQI6B6fQcF1HIpGlglYAMWpOlls0x5er94Jmc96DeKyVc83LOWDZjhsBnMm6ZhHwV2bMVGgMTJg4mDAD0GaLOtBNHeyLOf5z0PI=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9312685816&itemId=27596034575&vendorItemId=94916737405&traceid=V0-153-34f33e503c2da869&requestid=20260910102817848268844534&token=31850C%7CMIXED&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 8,
+    "is_active": true
   }
 ]
