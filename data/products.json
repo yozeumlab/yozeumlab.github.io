@@ -286,5 +286,21 @@
     "end_date": null,
     "sort_order": 18,
     "is_active": true
+  },
+  {
+    "id": "product-1789071362641",
+    "created_at": "2026-09-11",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "(오늘 출발) 그러라 그래 양희은 에세이 + 사은품 포함 김영사 아이유 이적 김나영 추천",
+    "description": "오늘 쿠팡가 13,050원",
+    "image_url": "https://ads-partners.coupang.com/image1/3Ln8NlPF9ELs0_1U3M20TkjxLIpEsJH1QLbuUAje5Q8WWumeHe0Ena1wZY9jrQwG1TpOeOyeTJbsnBbdpqEz_FCY1PRRmdmsHqifLqcHna4B5gXv9Eduz3sD1ev0oT_NH1fRSWfDhyugwssl9K4QQ0MeuOIHl6HYwUK8Jo_O21zRsn_TqWhAd8cKGYyCqSjZ8fBNu8WCp52g8zm-QVPSvxTUqguNPpgrjDgYR7_-WnAZ0x-nM3qKNI_fHzqB39mfICtqL219oBCASx-JXxwNrk-nBfxE_VhBevVHLaaycfDa5td8mrhUSIVhMUt-qp0-ruz6OlIYV7IVZ6NDK83Q3ae2IbhVRo5QjgjW1qw_u7tyJfjpo5_3RKNbm-7atgGO2eoQd-BAhtCO6Pslv1IzCfukhIFOevWlC4ocmTIBDaUOLLOU7TRhWzH25bVbHR-FoIkmc7I76rW0k-LNpu-hFwnZWbDsGgA5RoNVzfNk_Qg2m1AmKRWlTPkpg4nJyjjXpCFQOYl9HASDcmQeGeRHdBLTj2JDTsUE9YayyREhT2tFmoT4ywGQhVjSK8Vuzm5x4JCT1OWJucwqopbrjQ==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9724319656&itemId=29100413387&vendorItemId=75150230056&traceid=V0-153-cd8bcd091298efe3&requestid=20260911051455560237024982&token=31850C%7CMIXED&pt=0&slot=3",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 19,
+    "is_active": true
   }
 ]
