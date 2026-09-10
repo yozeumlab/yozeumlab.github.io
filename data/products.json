@@ -174,5 +174,21 @@
     "end_date": null,
     "sort_order": 11,
     "is_active": true
+  },
+  {
+    "id": "product-1789044526154",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "르세라핌 5집 미니앨범 위버스 Ver.",
+    "description": "14,000원, 로켓배송. 위버스 한정반. 9/11 신곡 발매 기념으로 함께 소장하기 좋은 기존 미니앨범.",
+    "image_url": "https://ads-partners.coupang.com/image1/y4aWcBeJqZjkZWLLyzuumhbNcO0oalRwOz7ujEdyTiQnie9Vy0-R6-gA7YTpSRzneVlusrGIKt6tj7uNMkDscKgebO-mgj-HHhySxD2HaKqgTznTjbRBtr9Osy1GCSsoVATa9FAr7EgFXywujQxFRf3WD_3cqfGHHPqnbdGm6ERH71FOUA0_NimuiGML16EXVLz9hcZpTchy5Nhb3xXcuiTIDuFUDetvk9l7CQ63M_r4DXZ6N5QP7HVtrHSg-30MXp3QnsqMNp7qoS5kMTRU9CnkANz8xHTO0OGQ5gOOHNgvkRKzmNAjn-NcxxGTpX1YyXFoZwx-PpDDQLDFZYxwGhsDsDFTAjWlC9gTksobWsnHs9Je4e5NXtEFnlLxINuDUcWWASdN2PoG7mccPvNkKXuIP4djyV7alFKLYENL0o9ZkTjT3RgM06Ey10BMQMoAoZ3NanXfJ8b2nW0qdEEq18RyOxrYuEjfH5Uz_mEogJUlKM07Ee-Web7jZvq5Lbn0-o4R1NvCA-QatEo920xOgfQUa7sUlGAFLvP0Q1XyQauijVRLtV40yDDc8TG0k6Oo1DyTrRB1wrWXtFVP9YyrWg==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=8653112776&itemId=25120656008&vendorItemId=92121071242&traceid=V0-153-b9999181c301820d&requestid=20260910213629775009150790&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 12,
+    "is_active": true
   }
 ]
