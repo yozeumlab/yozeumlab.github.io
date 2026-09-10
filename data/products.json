@@ -78,5 +78,37 @@
     "end_date": null,
     "sort_order": 5,
     "is_active": true
+  },
+  {
+    "id": "product-1788986330000",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "에어르 차량용 무선 청소기",
+    "description": "89,900원, 로켓배송. 제네시스 GV80 하이브리드 출시 소식에 같이 다룬 차량용 청소기.",
+    "image_url": "https://ads-partners.coupang.com/image1/lE63BmX1HEtKQusxlPV13l1eSy9yr8koNHh8fBSSMgIqY3Uc-BokF9sAQdLjCBYK9Bl_Tc87ZMgHLNIcN6xcw8dWHdcCM1aL-QEWZFpw7LIKcdiSqRmMGAsdnL1120k06brr5vRXsAeb1ySWTyak-gPyJOZE7KEYxp18zKUdObK8Y_8le5oP39hloQO3S0e6BkkZr7Ie0dgS-IaA1wWAkIpTVJ3mMMldXdpM_-R6xUACLeFl0BIcWBQ2cKd1zL-QBviO-nFJFepjLsd2r1sro05IidZ0KQOWrguSplSyudZ7mRpWvxtK4gEnSIWkH4rTjBQhouKDkF09EEe5MemhB2JUtw8SG_smGaKS_0z25s0Ji1bD5Jf3PPsBf4K0FxPtsYIIxKzF4qLd1ApQk6d85K6RiSzK2rmQTDrQ5-OWTQvy7YUrzMbxUEmw4OnW1LDWiP_BWrEMqwaac1skEgHsQdhhedCLPZiWcuDDWGVWOc47Nj2xUGknmtSzpWSOmadoLnkJua2q68fVwd9eFUDXpXW6wJfbI-_q68k_JjFqs9sxQiKW__ahqLtzvNkxN8En-Ibr5d7_aKIKuKqAvLex-m9p3u3zKVJCwuSQxE8e6vKrqzndN8Vc4G4B",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9123023670&itemId=26836921279&vendorItemId=93916436640&traceid=V0-153-5ef7d4a6365d63c4&clickBeacon=f909f670-acaf-11f1-a838-101ef9a7d499%7E3&requestid=20260910093842175091654308&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 6,
+    "is_active": true
+  },
+  {
+    "id": "product-1788986341000",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "포팩트 모바일 게임패드",
+    "description": "59,000원, 로켓배송. '이클립스: 더 어웨이크닝' 출시 소식에 같이 다룬 모바일 게임패드.",
+    "image_url": "https://ads-partners.coupang.com/image1/HGfj7b3FZvZQqA0XHMQaHLlJVm0Uu_J694PpeCBWmCVzS-OE-ABbaOFPONE0BZRwaqwTFJqNhuQfS8FNLwX6sxVpUy3EA-_Fkvk3HSb8gvG4o0CtboPBySg9ZHgZ0q-cqLvbaLvxsfZH8vM0mNFrlAadix2ZL1SGSsH8CbPhNDfLkERqMJvFAukTmjDF-LR-aMuhfk4_7uTBPaQgpxfo7fqV-OGTASicOLRbjFjTV611w_K17XlXTyooWZAdBRUovY0xeFPGNbOZpSoLrelNjJw9mTSBEO8IqX8ogHbISzlzcCgg4aTEPeJPVVsPYWf6CO1bAyUTElH7Eaxfacys-9i3PJ5mE9h1ZlthCGg9r622BpXc07YTzfGSCuySdrEtpWwHVFcKa_GyTlGzzpgzBS-TTI6h_M3INfZY-FNEVm-NFXeszNB7EtOt_vlvozM7OdaLa6Y5VjPM55bxbQO0fgO20Ilf9deC9fzAxrD9lNTeMYWbnI-guSlyS48ZMrOaH_0quWQxQKbGsgEiMHyGcEfqQ0b1DPaMHPscqm8tIBQPHzc4yWj6S9bR1CSAPYGh0A==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9194732084&itemId=27138722845&vendorItemId=94341123110&traceid=V0-153-9ada2b1553e2b5fb&clickBeacon=fe5f78c0-acaf-11f1-9f83-19ee989ca86f%7E3&requestid=20260910093851072001685410&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 7,
+    "is_active": true
   }
 ]
