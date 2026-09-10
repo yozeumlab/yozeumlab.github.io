@@ -90,9 +90,32 @@
     });
   }
 
-  function renderProducts(products, categoryId, platformId) {
+  const PAGE_SIZE = 8;
+
+  function renderPagination(totalPages, currentPage, onPageChange) {
+    const el = document.getElementById("pagination");
+    if (totalPages <= 1) {
+      el.innerHTML = "";
+      return;
+    }
+    let html = `<button data-page="${currentPage - 1}" ${currentPage === 1 ? "disabled" : ""}>‹</button>`;
+    for (let i = 1; i <= totalPages; i++) {
+      html += `<button data-page="${i}" class="${i === currentPage ? "active" : ""}">${i}</button>`;
+    }
+    html += `<button data-page="${currentPage + 1}" ${currentPage === totalPages ? "disabled" : ""}>›</button>`;
+    el.innerHTML = html;
+    el.querySelectorAll("button").forEach((btn) => {
+      btn.addEventListener("click", () => onPageChange(parseInt(btn.dataset.page, 10)));
+    });
+  }
+
+  // 반환값: 실제로 적용된(범위 보정된) 페이지 번호 - 호출부가 currentPage 상태를 이걸로
+  // 다시 맞춰야 "검색/카테고리 바꿔서 페이지 수가 줄었는데 존재하지 않는 페이지에
+  // 머물러있는" 상태가 안 생긴다.
+  function renderProducts(products, categoryId, platformId, searchQuery, page, onPageChange) {
     const grid = document.getElementById("productGrid");
     const emptyNote = document.getElementById("emptyNote");
+    const pagination = document.getElementById("pagination");
 
     let visible = products.filter(isExposed);
     if (categoryId && categoryId !== "all") {
@@ -101,16 +124,30 @@
     if (platformId && platformId !== "all") {
       visible = visible.filter((p) => p.platform_id === platformId);
     }
+    if (searchQuery && searchQuery.trim()) {
+      const q = searchQuery.trim().toLowerCase();
+      visible = visible.filter(
+        (p) =>
+          (p.name || "").toLowerCase().includes(q) ||
+          (p.description || "").toLowerCase().includes(q)
+      );
+    }
     visible.sort(byPriority);
 
     if (visible.length === 0) {
       grid.innerHTML = "";
+      pagination.innerHTML = "";
       emptyNote.hidden = false;
-      return;
+      return page;
     }
     emptyNote.hidden = true;
 
-    grid.innerHTML = visible
+    const totalPages = Math.max(1, Math.ceil(visible.length / PAGE_SIZE));
+    const safePage = Math.min(Math.max(1, page), totalPages);
+    const start = (safePage - 1) * PAGE_SIZE;
+    const pageItems = visible.slice(start, start + PAGE_SIZE);
+
+    grid.innerHTML = pageItems
       .map(
         (p) => `
       <div class="product-card">
@@ -126,6 +163,9 @@
       </div>`
       )
       .join("");
+
+    renderPagination(totalPages, safePage, onPageChange);
+    return safePage;
   }
 
   async function init() {
@@ -138,15 +178,29 @@
 
     let currentCategory = "all";
     let currentPlatform = "all";
+    let currentSearch = "";
+    let currentPage = 1;
 
     function refresh() {
       renderBanners(banners, currentPlatform);
-      renderProducts(products, currentCategory, currentPlatform);
+      currentPage = renderProducts(
+        products,
+        currentCategory,
+        currentPlatform,
+        currentSearch,
+        currentPage,
+        (page) => {
+          currentPage = page;
+          refresh();
+          document.getElementById("productGrid").scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      );
     }
 
     function refreshCategoryBar() {
       renderCategoryBar(categories, currentPlatform, (categoryId) => {
         currentCategory = categoryId;
+        currentPage = 1;
         refresh();
       });
     }
@@ -157,7 +211,15 @@
       // 플랫폼이 바뀌면 이전에 고른 카테고리가 새 플랫폼에 없을 수 있으니
       // "전체"로 리셋하고 카테고리 칩 목록 자체를 새로 그린다.
       currentCategory = "all";
+      currentPage = 1;
       refreshCategoryBar();
+      refresh();
+    });
+
+    const searchInput = document.getElementById("searchInput");
+    searchInput.addEventListener("input", () => {
+      currentSearch = searchInput.value;
+      currentPage = 1;
       refresh();
     });
 
