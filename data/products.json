@@ -254,5 +254,21 @@
     "end_date": null,
     "sort_order": 16,
     "is_active": true
+  },
+  {
+    "id": "product-1789050778635",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "ETF 투자설명서 재테크책 가계부",
+    "description": "18,900원, 로켓배송. 재테크 입문서 + 가계부 구성.",
+    "image_url": "https://ads-partners.coupang.com/image1/uVg9m0ZFZPW_WTc9uS2UjaZalne_yQrHileFcAQ4ayPz8wS3-EQPGtjPcvcXZK7SjXAliS1uH6sY8pccqMeOTg0egJU1l5iO8Xy4-Zzu2_D3MzKANNAQhsdIXrElI4aKsXHp2bSGJW-yUPWIBx8lc7dkKIM8pedR7Bs9uyToLfbUJil544_M-Aqy0CQr9JDTYVMUTs5e3XJ2y48AkfUOjiN5NdWjZ3gW87I7IWZu0CNdwdaBvNoUiQW2LSbbyIewp6inMtfVmV3N7ZX74nSZa5dD2kUizpPBkLrKfxoO-mPBRkks8MtBwGgQz_wiMHlBme4fX9qf414fExm1zWyN0-1IdvWFhyysEzTBEByCE2gJIGVcfCNSKUn3U7izk_vsCxdPygvGsSAYUb6tgEMhTuZ0f_0EPSVpsr3L_KmUDhGIQKi_PuXIQRGrj7oYLuufg8GnXka9I9EKlcJ0UeWPNsAbGUpGBfGbkzllUKAH1_RJDTRWMhLpmC__Xi1Jh25cxIUxRT5zg3M0r_I_FgGLNP9RW3pmNlzPTrcg1voWCXsA2upt",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=8024134259&itemId=22424161370&vendorItemId=90375140955&traceid=V0-153-bfbe614e09b0945c&clickBeacon=1ad54b50-ad24-11f1-bf79-af4209d27e3b%7E3&requestid=20260910233000519234252333&token=31850C%7CMIXED&pt=1&slot=3",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 17,
+    "is_active": true
   }
 ]
