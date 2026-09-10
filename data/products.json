@@ -126,5 +126,21 @@
     "end_date": null,
     "sort_order": 8,
     "is_active": true
+  },
+  {
+    "id": "product-1789013993487",
+    "created_at": "2026-09-10",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "뽀로로 DIY 클레이 쿠키",
+    "description": "10,350원, 로켓프레시. CU x TXT DIY 콜라보 쿠키 소식에 같이 다룬 DIY 쿠키.",
+    "image_url": "https://ads-partners.coupang.com/image1/Nmfc1IZ6OA7sRxYqNrr_lmuIzT8CL5FcLggDum3S9NAb1PDFWwjRBS0yHkab0Txbzrs8QW5l3qAxO-0j2EIuEHTq-CloZ-lpWG-Xsb3XajwZnupPH_RFuhaL7I1-k7LbuKS7NR4g8aBbO2FphCItOSZjE9TYciGIO6lBMtGBwLp0sUN9paAUAuBnsRqCI-jFwjCFDgL6BZYLX7HxNGw4FXtfFCbYcx3-V9u50pCsHHgUNbqV54y8x9WepzhRTLpipeSwvJyWbWlybaQBQtlzoZbrLnfe9eogTtgB6OE54glEZfab-FntrgRfAcUoGIhIUX0r43ZWEN9H8dfT8QQamQ41anaCrPsEou6hnirQUEnnBOcgtCeBcWrw9o9WOEHPhL7Cuuci5yaYvGPy6ughOR6zyIn4S9k2uq0zbV5sBo_ZPkTNUMMJ4ocDiCEk_AY0rGA9QF5ZuAROD6FGr6z--9OStc3-WyIUQFne5QnmDe-c760ts19qkXWhkx0PAcdgS9idlRYt6o21KDLZH18ZpYRz6heUbsYsFes4O-SzQR0dkP4wxbwY4g==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9456867221&itemId=28138105880&vendorItemId=95093635694&traceid=V0-153-3f9e12eb9111933e&clickBeacon=3d172970-accc-11f1-8bb7-03911df855d8%7E3&requestid=20260910130102325066441090&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 9,
+    "is_active": true
   }
 ]
