@@ -334,5 +334,21 @@
     "end_date": null,
     "sort_order": 21,
     "is_active": true
+  },
+  {
+    "id": "product-1789104762616",
+    "created_at": "2026-09-11",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "생각이 많은 10대를 위한 국제 관계- 2026년 하반기 경학사 청소년 추천도서 (랜덤사은품증정)",
+    "description": "오늘 쿠팡가 15,120원",
+    "image_url": "https://ads-partners.coupang.com/image1/7IOhaPzBIE-ICHwQ7LnyVINUC4OXRIXg8x4045QttFh91xfYKoZJeigJM7aEAZwcurJapyVOlyCQXOj_Afo84dE6taRgNzssbEOj8Fy5TmdQ36zhxlHYGkZ4fJ6wHnZOIMefTlOMRT7vMhQ5J4chywQIgxySEGz6VcyNRT5isJwV9zWHVTCx7fO0rp2l8KpqN86kvyl_H8KMc4_WLfxuuIRcWQih4d_2pEL8QKDX8Bj8WW08qTtd8U212Q5uA94dse0HJv4JSVhZ0xcsjRMO9AEo5GS1KHvbAxbtHrEpqCXlbp6t2mJhWKPBSH8os_zIjAMm9AGvJn7Mh1jSPudtjq1wD3oxNVtnVe5yJoD4Fu9oEdCxMi9JXTwCkPV9GyQILKrfw4b6lOxcBFLdrefe8TtVoxZBryh_Fv0jXfFDCNF7Wk85isnqKeSQCOrW7Y0be2VSHfdGmUMxA_rKdwZW6sPV2U3undPYQVcDtOjKnfuda9lRO0W6A0lYBk6q6WsOL6HED6e7falZV_Om0jPx1P_8KIDWLntV-h99vYCeemY81z36rhw_c2438feIFDqKVqtmjWlVJRk6XqeqXbKxxQ==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9720867547&itemId=29090682826&vendorItemId=96016169971&traceid=V0-153-61be04fed20db90a&requestid=20260911143148857161568157&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 22,
+    "is_active": true
   }
 ]
