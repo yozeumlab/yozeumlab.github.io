@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "product-1789245566479",
+    "created_at": "2026-09-13",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "추석 선물 우체국쇼핑 [대천김]조미구이 곱창캔김 선물세트 (30g*6캔) S706호",
+    "description": "오늘 쿠팡가 47,700원",
+    "image_url": "https://ads-partners.coupang.com/image1/IVVODhwpT87uI06NIdlfZS9U9I-JIZyViIdwQ38iiysaoiYzm0G8XY46Eqocp8Jnn504J5MNPubKY3i-EC_1M3cUtRYF-rNIrIgIZN-j9nv_0K2VBfXiphpZW_X-0nX_sYB3_JUfIJbALgc1AmyNv04-N6eTpafqr_RskByOqm__0xmt7qNnTpdqGwtQI1C5Nn0OtsxPnSYPNpgG_dcHikhGbiQmNTePHtlILuAryYCstm-7yMnZWrzYEth1MnwiZ4_CP4CR5Zf8z6xymFoAqE2timdnllUZTy3yH0RZ-twDTplt4-9ye7E_eIgPCav2MkllquwT_EyCxrwbb6nP0qBpPcH6sI0F611k4eEYTz6dpMF-x5wmN4BJ4EhJranW2EQXsfjxxizKXqpWTAe2JoRdWuyJoSOLVvdmBX8aNXX26AlzrPM3ftvbAHikdOJx_MAz6qGG-3jx0nySb8uamfUOkIpYpmSiM-GtHCkPZ0nWzJ16kLT62XMsx6zpAYFJ-vVE_uYNvhI7q5jPo9i32dyFJxTPx6RTJHvYSmlhL1S5l19Qe97AgPC59m2UD-g23K-mtv3yRKnArMgr",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9715917370&itemId=29072947333&vendorItemId=95999068668&traceid=V0-153-c347af914447d8b5&requestid=20260913053822947097398239&token=31850C%7CMIXED&pt=0&slot=5",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 1,
+    "is_active": true,
+    "source_product_id": null
+  }
+]
