@@ -318,5 +318,21 @@
     "end_date": null,
     "sort_order": 22,
     "is_active": true
+  },
+  {
+    "id": "product-1789195688086",
+    "created_at": "2026-09-12",
+    "platform_id": "etc",
+    "category_id": "electronics",
+    "name": "벤션 65W 파워뱅크 20000mAh 내장 USB-C 케이블 휴대용 보조",
+    "description": "할인가 KRW 43576",
+    "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sef281acdf64d4a73be6d645e05d358f43.jpg",
+    "affiliate_url": "https://s.click.aliexpress.com/e/_c3FsbaMD",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 23,
+    "is_active": true
   }
 ]
