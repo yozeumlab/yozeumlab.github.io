@@ -32,5 +32,22 @@
     "sort_order": 2,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789278630180",
+    "created_at": "2026-09-13",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "[로보로보] AI 자율주행 자동차 만들기",
+    "description": "오늘 쿠팡가 195,000원",
+    "image_url": "https://ads-partners.coupang.com/image1/gERsLw0pwuNjb_MPgJaVIVBvLMLuNXY7yfYFYBkJY9PShb2GaObi0B-W5Yq1d-F_5PSjdoHFIZfYY7dUIYnUpR7DNgVIV3AoTjUJYKTBWd57SrcXwykKP3jeMpgStt1eeY2o4u2AV1Rm3jWCD847Viky-9SxFzxtAGHNnqso_LXA2r80OxkcKnQm2l8ddRwpxcwtgk7j4TqwiL0v1oMda8nB2AoW59L2QVX9028WEKnJh863DsmH-cMqzOazI-LpbDlWyWJ8nC3-h0fwokZvSbJmReqkb3wR5MQFQU_IiTiTfA3pbqswrH0udIlXZ5wG5GBNA9fQ9q51RblglroKF4IVBrYNRQC5PRk_Jqg_WSotVKdN0zOTheDH_-rCXVU1OQd8kOZbHVXccC_cvneX4HLS8NWFO1FQLyzilR0ES8MlF_w5GtFe5yrW2p_cIuqXwJsn7FiqzKcjxdzqTMD6NPn1W5DstrAjsKcRMaqypbIntGT5Tf6Lnj3ldJ_XNycW3StBKcuL-ilFV-r4t8dEyQCfCqSYdI0CLj9cwy8p1POvOEOltu_N5rYR08p5zUcNeA==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9046724976&itemId=26551081633&vendorItemId=93524960456&traceid=V0-153-069aad7bd9ed8714&clickBeacon=c2d5ead0-af36-11f1-98e9-b1945cab1169%7E3&requestid=20260913144835652258758721&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 3,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
