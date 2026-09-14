@@ -117,5 +117,22 @@
     "sort_order": 7,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789421162930",
+    "created_at": "2026-09-15",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "AI 대세전환 압도적 스킬로 바로 쓰는 클로드 코워크×AI 자동화 -비개발자 N잡러를 위한 사무 자동화부터 콘텐츠 제작까지, 프리렉, 강다솔",
+    "description": "오늘 쿠팡가 25,200원",
+    "image_url": "https://ads-partners.coupang.com/image1/CwhXx2EzLPdO6JY0C-K1hhZMOKZgi_P2YPpPnO1tyHK1Db2cByr8tNzgn9GJCYYT76eJGXwO-KCl4GwZNQronijRIN65EBtQvFbs2dNZN8mHJPiqilZCb5SmnFiLCXanKqHU_AYgCLBcPr_RHD8nBdBCt7Q0xracHsmBTmmO6GlUQnFmSIStoLsh5qurUd8ULdtHEkiGqiPk_K-3SHV5xfQoLqBmlSviNvbBLcuFSDWAyw58-QcyveZ-GCn2BHO9jnK-MWIpShLM6CY3zEyNlkiHUUVOytx7dYvU0v_mPnPNZFSYLIaLyucqacJwvKXFhYPWptgFOnSQj-ENzbgsnPj6JWvlL0ZbW1U4TSgVPWxGTpc5-EVzHns0-2LTEzSwRWGXK4bVp3r7hW7hAJkadeAPoYj7GD_pPqrnwnHysgjgAuK4XNv-pzFcqYCW-D0y6PaRT0cItZvnrEwF9awXBX-IysvPYl0tlc11kpAyzxPftlfVjg9N8ePWwvAWqs-08f2XQMLatblR4aP7bs7X-DAA1ehW1Xmu0S8I16aRwggrjpVsS71Tx0cIBRRGaprBfg==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9675067801&itemId=28929001147&vendorItemId=95860385652&traceid=V0-153-ed96b48fcc147fae&clickBeacon=97aefa20-b082-11f1-a927-30f8e8952398%7E3&requestid=20260915062356159271815735&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 8,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
