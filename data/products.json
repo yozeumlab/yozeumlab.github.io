@@ -83,5 +83,22 @@
     "sort_order": 5,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789352330453",
+    "created_at": "2026-09-14",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "농식품부장관상 저탄소 GAP 햇배 산지직송 가정용 추석 선물용 신고배 5kg, 1개",
+    "description": "오늘 쿠팡가 51,400원",
+    "image_url": "https://ads-partners.coupang.com/image1/BbS6RJVX-efDf50JBQwHzVBtPuq2USFiKTs9VevaW6_kuPI3ccqfQgxaBBUNC6e9JfEYoSXuQB0_j0wf0TSA833nraDIrc52ZKE3Po9-PQH2PXuEDvFG2MY4O_FwtWm2qWdUCYsI7ccWuRq4bGhSLzCmexvMSr5cJwWPa8VUmSo1fHbJa8s1xM3wmYMAvXZ3ETefwNbNNeyndJlz6OHr1g7jrLmaUkUnlcKDS2GbsvtkrDYpBud4Iaag0dZyZ_WxQCPG8RKJGAcCnDwBblVBFHQAGIcEN4JmprUZn3s5t9cYx44F-vTqjgit7STueeBY_x9K-SBGkGHjbZmvl1o99hHUsllVkyQyCZfZ8nYNYTnyzMx19htSmMr9yZqddUvG7qI2Apm8vkU4fw14iMRJAMUQquokKZq7KL_QWCkF4fF7QULX3j5TCJfu8bUlWU_2dKtDLHPB0g8apb0RWq9Z6GY-ag-E4YjM8guBnTqz85qHF8ryPz9AdIAii4flYwxztHvQkA-2GN7cSGyOMz9tZ4-nEhEnMsOaPkLzsxYm0WFRmdN-jHVJTNnuz4z_HtEazlFJVW7x1mC1T5uY",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9727920300&itemId=29110849873&vendorItemId=96035577011&traceid=V0-153-bb4f42b26ce1d588&requestid=20260914111719268224099152&token=31850C%7CMIXED&pt=0&slot=5",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 6,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
