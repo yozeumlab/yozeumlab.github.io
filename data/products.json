@@ -49,5 +49,39 @@
     "sort_order": 3,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789291277671",
+    "created_at": "2026-09-13",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "직장인을 위한 AI 에이전트 클로드 코워크:앤트로픽 공식 플러그인으로 익히는 32가지 실무 예제",
+    "description": "오늘 쿠팡가 22,500원",
+    "image_url": "https://ads-partners.coupang.com/image1/5LCxbX1QjWcz4LBI5HOSmiXd0UTRVIloP9QDcFKS9AXa8RkcMMDPwuURYsnQ0nJOVOIajFL_V0PU9z9q9C0rbSZyGVN8JFv7FuLQOYX2Rsq36r1wfPKgv8fnujfzm7gb2DrWKwrugSLpcNRW_859h9LQkjiiJNxd7ZmQ3Kg_nBMUfyF9QjVCwD1lXjxLKvHUMyxkgEtiJtNDToQYGM7nzOJ-iYqtpNLu5K2qq7PSKJUaL6rxyUOQ2I3t2S4b_kCTOXQhrhVZQ7VtRTNXJ0b9OISZx0i5yx-Z_aA5KIXAe9Cu3AQWz-p_j3J_K9dl1-ps8vq_ANdg9pTjwQqmaZpevokVLBRCjNRGQyPTuEFW9AwLYDZ_DKWWi5A3RB8fMPtiFAyGXuCYfP9SGzno4J-XrqKZsU0v6xdmeFhJkPN5NtHq9PSIBts-uKchkScOQbd3gAUzV9nk48DYAnswFqvIbVhwBbuYTdTHje4iAnEX9xn2EistxrRCiK1qOsKi2y7ouJtTrN1FUUMXSVAOH4tFpq8rRxI3KMBMhN5s9jLrfzLMcLG4iSyB4FtfqWTtpFCHKzoAYAwEYEOe2h119zgiSA==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9708899275&itemId=29047746463&vendorItemId=96003591704&traceid=V0-153-86f20113b1754bb6&requestid=20260913181712271089846283&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 4,
+    "is_active": true,
+    "source_product_id": null
+  },
+  {
+    "id": "product-1789352234774",
+    "created_at": "2026-09-14",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "강력한 인하대 인문계 논술 기출문제 : 2020학년도 모의~2026학년도 수시",
+    "description": "오늘 쿠팡가 33,900원",
+    "image_url": "https://ads-partners.coupang.com/image1/RExy3sRBDsx_WdYMRNJ2cTWp1YOLmlU3pCMV1A6P33-XmWQqto948i0vW2CrMzRmq45snc2PIM8evxSAg5IjaswXu_xnDhCErs_asY-PIA4OJRnLXanrMybTI0Pj3VpKr8vrTDRXR0MLKlvB4TZy1EQ9CcNBwDZy7vvDgVPl46HHgfb7HdjFDlNeihdIOrQmCgrXpmnSobbkRSbIy45mw-xWJ3cXaIkqjtt4q6T13gPm31R7Ni7iRxUGDRorIjdGelNeqYkQIx039wZxqiHaTRCHQklC7puZVz2BaNFO4F6UQJpPzXsIiU0uElQyirL709Gg-BXBil99nUlQQoOh9opMWiTtYsSufMNjyWDXgilHoy7QwPoeUqJNgm9ZVpD-ZGxe5-i1AA9igKnWW1Gx0mDAnJxkeSEMrwqHMMM6cNkpW-RHiNI10JvWSpGzClIgyc6YtaKJEprjflNw8a4G0x4PDklG7YV7GwyW0eJbjNDPRHJilvdKzkKbJ5k5yE969ALVqmRD-WfCS3Xnwx6PDQ3NNyQX_glsj1oFJQtNA2_tkZCqmMbgTYN9z7UElCsYJwSXbKiID1nrxOV-VCiEQpM=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9584639061&itemId=28610877811&vendorItemId=95554334409&traceid=V0-153-40c3b2f3b90dbe50&requestid=20260914111540840143964888&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 5,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
