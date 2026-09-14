@@ -151,5 +151,22 @@
     "sort_order": 9,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789424630634",
+    "created_at": "2026-09-15",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "스마트덕 노트북 파우치 거치대 겸용 맥북 LG그램 삼성 가방 케이스, 올그레이",
+    "description": "오늘 쿠팡가 22,900원",
+    "image_url": "https://ads-partners.coupang.com/image1/o6CRFPT5oaqw6qs1o7JLJHRepFj6YluN29faWLSqx4aW1iePbo6dSNNEaO3c-6qDwcGkexkPFO-NfCkP1gedGKxr_U6sRt34OG6UmaEie60NGvix1hhlfm05PFlkxgmsron90UAdRqZfToF4ZiEJbojkl0LxpR4vPEA8OeQwbj-u6uj76BGQttOnX8z1VAxweY_O8Xw848VEKLRJCKWFvZfh9t7uW-kwk3RX6Mwv0DYU3JpQFMD2BcPmmbstAar2XaynyucJCVV61zhZ8EpZkW9bC6FL0MrttvAPWEvDw2urR6Gi-1fZZegmBuA6gnFQOTu7jvZ4VddzFRhP9SbeH5byLL7BZBwd0cAyeUC7oRmBr5Qlhlzrxq0Ygk7fbXl1NaCbPBdhluZ3OAzPnWyBgeA7SVe3Cz3opzAnp0_seVjmKgQQUdYOOxOUjdwgJy0PH613ECW-JDmec8EY2-BKZy8tpaiq-jZe52xQrmkCk7tXZj5EE-6MDfoGn0f-YVShsE2AIQzVZkA4Ij2GiAB8XgykmMgScolUedUdr6nikwitHRoyjbUDOiIfSqpZ-GKp9n1mR5vS9icT",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=8700463499&itemId=25264874685&vendorItemId=92260712999&traceid=V0-153-136b42e21c46f041&clickBeacon=b65ab790-b08a-11f1-a65b-d50514042ab2%7E3&requestid=20260915072203578229694179&token=31850C%7CMIXED&pt=1&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 10,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
