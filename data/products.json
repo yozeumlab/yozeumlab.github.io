@@ -134,5 +134,22 @@
     "sort_order": 8,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789422820351",
+    "created_at": "2026-09-15",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "NSB9788963473512 새책-스테이책터 [마한.백제의 분묘 문화 4] -충북.대전.세종.충남1, 증보편1-중앙문화재연구원 학술총서 33-진인진-중",
+    "description": "오늘 쿠팡가 47,500원",
+    "image_url": "https://ads-partners.coupang.com/image1/OO1r-Jarctike40XOEkuvkt4g5lCDk-l9s8f9yS3QuehUxmv_T9MypY3ytZ-urYW4VGYolBbL1GwgXlDpCH9llAjfX9glGZmOuTyVYeSo8J35kvlLTopZBiEgCfnD-9w7isgfKuAwgUVDevj86phd8xjjsKUxEFbwz_HTjvJPLMJsiUNv6kga5HLGDHJb5n-TnwiFHJuEbb2Xvg3y5Y-trbZg6j52yrvGJeEhMetec3lGq6yVTjd-02cEHjpLi6H_tXLS51oLRYBIX8yDpMlz6Z7moZ-2IjN0aNtgA2nNpuCmAMh7utNFzUwBdihcPgT9zmT2Estr16WtQPuhyoLK3mNWs9d9C8YMWAtzZjsHKbvyxuqg7izP04vSQI00KbA28CttzZMkxIKCe2BzStqho1Q7wsAtPg-AsQfzwsg-0yLDWk0VbmfMwaAmUSTXy55Q4ZiwZynTiSuVDty1_pa6srnLIcCymzo-bit6_KONH6Aa2ol1LXb3QjXlcXI_oDIT-Xm24Ui-YmUEGu1NSoQ6neOPbgG3j5JYwzHxJ1ijmUxwkUoKXN8sZmlAA8E_SqICoP8WQIk8XOdOA3GFFZaNf4=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=7228439909&itemId=18335418332&vendorItemId=85458793861&traceid=V0-153-83ad067654879e44&requestid=20260915065142794304613716&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 9,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
