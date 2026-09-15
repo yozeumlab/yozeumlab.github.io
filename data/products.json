@@ -168,5 +168,22 @@
     "sort_order": 10,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789446609723",
+    "created_at": "2026-09-15",
+    "platform_id": "coupang",
+    "category_id": "life",
+    "name": "캠핑 등산 재난 대비 비상용 생존키트 8종 세트 서바이벌 구호 용품",
+    "description": "오늘 쿠팡가 13,900원",
+    "image_url": "https://ads-partners.coupang.com/image1/oz9xtV28fyPuUxqFo5Rgrt1e-W_ZYgqXWfVUjiEZaa2kt-8zIvqkfNPF9P4E4JGda6W-yD0Yv_nx3F0HDSvROeHqYPuJtWgrFw5-jm7IhCfiGtdNoZ0J9QckOWQ5Rygwl8vxN0GQsPbbeokq30wAaby1fDSoLEwaltAnI82emNiXj8gOhExscFrtHLQj0IQ4zmj1fOs9yMrpjBqS0X_sCEwbvsbGKjVyueUnIszvdz0f1d39Dxupru9E9jJxUgF9O2I_Z1No7IwdN-S46USMQz_-JZTMDn37GYOWP8A40JF460uKUHd60fgOwJ-5y_hrfv-4dJALs90A2tCCCE50rTWzy9oFuc7_ASrv7N4B_MfCMW1eXurMcB1Dsj3Xtga3-VkW6-a5V1PgbotGIpbYDFN3j_3gpHRYWtjltA2XJNhc5EpiosVUqWYhmgLw_HBu611whRWCzjPUAscK1of5WPWIRhHtTgBDF4y6o67SVGlnEuLoApejZn-Pa_CXBK5rKLIXLbl1Mr6K37-kgkCNTZgnhIUZHxaKRGRBO9Qtzy43aACDKUZN8XK4erVyp8tkmaa576hbNwEtRj7VnlHnfQ==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9673809164&itemId=28924887044&vendorItemId=95983811706&traceid=V0-153-ccb50eef114fd4a3&requestid=20260915132654154091823565&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 11,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
