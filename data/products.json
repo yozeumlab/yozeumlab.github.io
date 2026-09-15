@@ -185,5 +185,22 @@
     "sort_order": 11,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789480862560",
+    "created_at": "2026-09-15",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "정경유통 대중교통 시내버스 렌덤 대중 교통 서울 시내  버스 Bus 작동 자동차 완구",
+    "description": "오늘 쿠팡가 16,300원",
+    "image_url": "https://ads-partners.coupang.com/image1/_yzEuiSlnuHJqp8L_1oxZ7D-WhYuGdVxXYITeDkUlPEalr_7m7MaROEG3ZNDSWkQPE3FA6vE2yuSIuBkSg69a5QtxXkXOpuv0D9eeKE459lOmKxHKJB8Pc8kRV2rBsSjhbgUyR9ZnkJtZRm5vYGbgR_8DZHs7x1uyRPU9_-DmWhCo05AQINiERMA7KOnWSbPQ0QUflWpC5AKZNuz5CS504J9YnIxRG4Ex35wTn6a-F9DLiADk5gcun2wUecaPxTp-P4ZP2avDNjJxia5mhCgkWd6o21oPOJV10UeG_aMP_W1Rr0WwRRIfTxcGhXll1lWx29En1O19pFr9_4zg1wdR1mQfq8pI_G9CbW0xNHFGTuAhaMNCWsqqefUm_KLBPRtHnibB7FmHHkx0G995HEKHSDHvCQ0kUTc30Ce47Rnr0N5G4dL2XFO0lMGXgy56Qwl3lPZUKhVnJn_Mt7Dk46EoEf79ytQHMpz6CCf4NtTRgIKkvYMAlQtxo6UOtsEgQ88sV_FOWLkkp-JRowPab86rrKKSJ3_RBitrGHOwZZwHk_Ribudx3OjhXY6zImRQdeDDu_oXYnwjj9jPfwZnSuUwQ==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9241006846&itemId=27325254262&vendorItemId=94291611734&traceid=V0-153-847dfe18dd357ee8&requestid=20260915225851884216805314&token=31850C%7CGM&pt=0&slot=2",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 12,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
