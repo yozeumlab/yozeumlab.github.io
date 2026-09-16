@@ -219,5 +219,22 @@
     "sort_order": 13,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789587484760",
+    "created_at": "2026-09-17",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "추석 연휴 휴무안내 현수막",
+    "description": "오늘 쿠팡가 14,000원",
+    "image_url": "https://ads-partners.coupang.com/image1/2P_JwpwdDHS9aAgp2GKqi-K3uF68CYNdFicQRF8P7XvSWuGk_pNp8u4zncl4dMmW9wyAM2FAJs2rbSzvqyctBtZI1NsoC_p-1HYa0dohAS3tqThIeTZAILP7z--aOkL-px3JYsZnoW6Ir2B00xrI5WulDq8K1Mv0XlYnPqHcL0bO8yrpqkTRj24ZlRbQ90hBbXdBUwPJd9Ul6ecSCzLiy8LJBndYCK3nDzJqa06NEBmXvBvCkpr3Ffa-PVOp7SQdB1eelKndvdo-YkJ04XUoy0kIz-VxGbacNfMRQjRx7W-n8n2nBNbLH9BsYs7BqhinST0IqQ6-JL4h77PTNC1-1CSx4ux79URaRc1AI6CYjllSgD__FAChdc5KOlpK7JxUuNxU9G9ac5OKjq2RVlhrrC038cdBp4jlWOXnGRLDJhPfcm0DN8Z2zn3gfRGccUUJWik7mZ3ban9rbhoEhJa35pnQKGrMgqjjtip38F0Ab_OxybBPMP32Vs8Qo2gyRWm6tNLVP-7w9pGqsrqCZJafUYf5XSIuhk5AmYF6WlcgN6RMrwNT5BChzPnke6XgDZWyM4E1K5_BAtILg-m5lLnd7OWDlBY=",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9712045085&itemId=29058707704&vendorItemId=95985212972&traceid=V0-153-e51a71d5f154cd8e&requestid=20260917043516327076836885&token=31850C%7CMIXED&pt=0&slot=2",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 14,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
