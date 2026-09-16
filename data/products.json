@@ -202,5 +202,22 @@
     "sort_order": 12,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789567527266",
+    "created_at": "2026-09-16",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "(사과+배+샤인머스켓) 추석 명절 과일선물세트",
+    "description": "오늘 쿠팡가 32,800원",
+    "image_url": "https://ads-partners.coupang.com/image1/L5cm7Ntrj1nntSSuL_XAa0NeJSDjLA-s93UmfT5B3ksnVrNWCU-XAKtPfwNPL-cTkwsdevIM3zQ54_uGRZxKEXXw3MOFyN3KCgFAh-I8K1NgiZ8gYPbCpHFEqw-by5Xcav-g5NKDd2nxlVUvWn8hsy8X-iSg_i_EFq4CftLZTEraePe9XQmGPc8pmx0Z9MnXeIkieeapJsNDJSBN3Y9ob4mjyZWqZ87WFn2fD_11Nk_X4DKa4H0oQ1OHUJoe8Lrvld3VDqe-VCPvzxjAL-ef65EbX2h3LmJ7NlY8u3mIvs8ysE3fAjMjWAssOjX4VgP0BEOYTAktKIDotC7pFtexvB5xZwjQon9Ip4iuVaPNx3TT_ukdLAcbOcbsmehxpR7OmrtabSpezlFXsydb5ABO9UZEMf_oaZhK609VGyMQyGiG1jJvKEha9k7JFyr0Y9kKCOPp1UET6RSeF3IZsohwRusrDsDGHfkdWHdNPeCGpj3hpLRMgXpf24rHfGxvvC2z5wSwhhoAdhVrpEFvievnepWhBVV3dpTJhrRXvfT3JV5OpAJBjTomcqQ9FdRj3Qll-P9pHNdLRVa35clKjxwTe5B_Ng==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9719544166&itemId=29085923385&vendorItemId=96011581639&traceid=V0-153-0b8434b11de122d4&requestid=20260916230331053289287772&token=31850C%7CMIXED&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 13,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
