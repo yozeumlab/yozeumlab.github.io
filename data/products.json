@@ -236,5 +236,22 @@
     "sort_order": 14,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789689775393",
+    "created_at": "2026-09-18",
+    "platform_id": "coupang",
+    "category_id": "electronics",
+    "name": "모두의 창업, 성장의 공식 : 대한민국 1위 액셀러레이터가 찾은 스타트업 생태계의 성공패턴 5C 모델",
+    "description": "오늘 쿠팡가 17,100원",
+    "image_url": "https://ads-partners.coupang.com/image1/MwQdlIlYQU0uuEjdM1pDi776UYOXFFoZcwwlPyZ8sO88MHkMX7SdSFgEf5LIbjfDNgc-TgOQCDkl74r_bBDM5PKjpulsPEaXCo-O5TEmuKDtVBq-7aGiXWE16YK96C60kfmgOSXEVf71JXZjFmnjG_4kd3A7c1oZbUUk2AYsw9RpMxNvrozbBmZkRdYarbjjPTGd9ji7Y2fuWDA0_z1vLgp41rlkS3IWbzJtSUtnVSeu7QRDNnHH-CfjDG0jsw9qCFU8PttGXXyCnNjykk0Xamf72xqnGMRuEm9jwBZpMqpGA1ISNmzDfRWyjn97ebbHjEByL-Oagb06ZXVxvvHfIOnyvvJlzNjQX5OnxFgexV020fs7YZm4OfkM-UJTOY6J1wMpjAqOZPy1-A6QDSKecKmHbzmyhMMZ0gDRYkFbgbGwQHONZ87347MTIul-JYKkP6Zv-r077OWu0GKP7eE_zYKGsQe0KjFP--dzrwHFeaQixUSpE4_9FAX7J2taMepu71Gz6pqx8oK56uERR1hhyZyToUfP45JeJlPQ5EdCok5FG7ymlzdj7z_CVKt2Bqd2JFuWRgLl9NiQQoHafyx5mA==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9724163180&itemId=29099975777&vendorItemId=96025183992&traceid=V0-153-d598bd619a8a0ccb&requestid=20260918090043147229712552&token=31850C%7CGM&pt=0&slot=1",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 15,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
