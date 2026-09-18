@@ -253,5 +253,22 @@
     "sort_order": 15,
     "is_active": true,
     "source_product_id": null
+  },
+  {
+    "id": "product-1789689898840",
+    "created_at": "2026-09-18",
+    "platform_id": "coupang",
+    "category_id": "etc",
+    "name": "자동차 에어 펌프용 나사형 에어 노즐 어댑터 - 자동차 타이어 인플레이터 액세서리 미국식 나사형 노즐이 있는 타이어 척",
+    "description": "오늘 쿠팡가 10,620원",
+    "image_url": "https://ads-partners.coupang.com/image1/rib41d4S_v2edjDDrvhgcnYbhFfjK5Tfxhx-O3hxD1oiBYW2VKpKImTkM-HH2hlp8k1dwfU9krd5r_kekaRhB779HKqWmWgDXA0bzmOpTErZyyWgD9btUyPfmuiXkF-MIopkauwXqeou9KcK0tmR0S9Q7s6VuIWy6u35PW9IHbTziSdpRKCyTcA6jwlKkkuCyW0YHH2X9BOXV8dacOyjoQ9y1-8j_IaojI1qC3ve2YEtGnN_Xpq33cDTNMAHFiHYeeBvfsge4B2pZoZ0YaxQ5KQ5dqnQE1xAob4JB0aXHobsiPPPH77n2WfaNZQPnN09dwp6rKEPil2z91cZzy_Gcd17WnxbHv-Yr9qMvJFf5YdPwlpKI5mtsGRIjZBjKcRE2UU9u_QLSepwcWm6iIQ6vCRp4guxAvHCkeITARTTwu37lpNapqD09SR_tN8F_4ZkraM0SH2gVJb_0lBwL_zctcf021NFTedf8khDoF-f0fmzsRx5doCmFPQCVyPkwD2iyQGs8wsmlzpya1HnhQoA_ZFzWFGr5PtQ1JSXeVN6I1KCqLcwZWQcDF-qapcitBdQs7tHZnwzQdG5x3UU_hyHk6BcNg==",
+    "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF1280061&pageKey=9732520444&itemId=29124622864&vendorItemId=96048834492&traceid=V0-153-d66ea785816a83cf&requestid=20260918090300222313518494&token=31850C%7CMIXED&pt=0&slot=4",
+    "source_type": "API",
+    "is_featured": false,
+    "start_date": null,
+    "end_date": null,
+    "sort_order": 16,
+    "is_active": true,
+    "source_product_id": null
   }
 ]
